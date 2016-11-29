@@ -1,4 +1,4 @@
-package es.botelloneslennon.winthelotery.main;
+package org.botelloneslennon.winthelotery.main;
 
 
 

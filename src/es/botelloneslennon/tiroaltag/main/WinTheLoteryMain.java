@@ -12,7 +12,7 @@ import java.util.Scanner;
 import org.apache.commons.io.IOUtils;
 
 @SuppressWarnings("unused")
-public class TiroAlTagMain {
+public class WinTheLoteryMain {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		URL url = null;

@@ -1,4 +1,4 @@
-package es.botelloneslennon.tiroaltag.main;
+package es.botelloneslennon.winthelotery.main;
 
 
 
